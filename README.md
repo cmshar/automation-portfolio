@@ -5,7 +5,7 @@ Specific Experience Below
 * 2025
   * Piloted Jira Align for organization KPIs to automate data collection and reporting
 * 2024
-  * Increased team efficiency and audit readiness by pioneering Jira Automations for Customer Trust workflows, enabling proactive risk management and consistent project delivery.
+  * Led a value stream mapping exercise that resulted in increased team efficiency and audit readiness by pioneering Jira Automations for Customer Trust workflows, enabling proactive risk management and consistent project delivery.
 * 2023
   * Improved data-driven decision-making by driving technical requirements for Splunk dashboards and piloting Atlassian Atlas to streamline cross-team communication.
 * 2022
