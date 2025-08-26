@@ -32,11 +32,14 @@ Specific Experience Below
 
 # Conference Experience
 * Zero to Metrics-Driven Hero
-  * [PMI Orange County PMI PDD Days 2024](https://pmi-oc.org/pdd-2024)
+  * [Girl Geek X ELEVATE Conference 2024](https://www.youtube.com/watch?v=_kgwhYuI0Hg&t=2s&pp=ygUZY291cnRuZXkgc2hhciBnaXJsIGdlZWsgeNIHCQmyCQGHKiGM7w%3D%3D)
   * [Agile Alliance 2021 Minimum Viable Conference](https://events.agilealliance.org/agile2021-mvc/speaker/294899/shar-courtney)
   * [Agile Midwest 2019](https://www.facebook.com/agilemidwest/)
+  * [KC PMI Professional Development Days 2019](https://pmikc.org/professional-development-day)
   * [Lean Agile Kansas City 2019](https://www.leanagilekc.com/sessions/)
 * Proactive Engagement: Identifying Issues Before Your Clients Do
   * [Lean Agile Kansas City 2017](https://2017.leanagilekc.com/sessions/proactive-engagement-identifying-issues-before-your-clients-do/)
 * Hunting Horcruxes: Risk Management
+  * [PMI Orange County PMI PDD Days 2024](https://pmi-oc.org/pdd-2024)
+  * [KC PMI Professional Development Days 2016](https://pmikc.org/professional-development-day)
   * [Lean Agile Kansas City 2016](https://2016.leanagilekc.com/sessions/hunting-horcruxes-a-cautionary-tale/)
