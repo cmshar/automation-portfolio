@@ -1,6 +1,20 @@
-# Portfolio
-Specific Experience Below
+# Publication
+* [Zero to Metrics-Driven Hero](https://www.agilealliance.org/resources/experience-reports/zero-to-metrics-driven-hero)
 
+# Conference Experience
+* Zero to Metrics-Driven Hero
+  * [Girl Geek X ELEVATE Conference 2024](https://www.youtube.com/watch?v=_kgwhYuI0Hg&t=2s&pp=ygUZY291cnRuZXkgc2hhciBnaXJsIGdlZWsgeNIHCQmyCQGHKiGM7w%3D%3D)
+  * [Agile Alliance 2021 Minimum Viable Conference](https://events.agilealliance.org/agile2021-mvc/speaker/294899/shar-courtney)
+  * [Agile Midwest 2019](https://www.facebook.com/agilemidwest/)
+  * [KC PMI Professional Development Days 2019](https://pmikc.org/professional-development-day)
+  * [Lean Agile Kansas City 2019](https://www.leanagilekc.com/sessions/)
+* Proactive Engagement: Identifying Issues Before Your Clients Do
+  * [Lean Agile Kansas City 2017](https://2017.leanagilekc.com/sessions/proactive-engagement-identifying-issues-before-your-clients-do/)
+* Hunting Horcruxes: Risk Management
+  * [PMI Orange County PMI PDD Days 2024](https://pmi-oc.org/pdd-2024)
+  * [KC PMI Professional Development Days 2016](https://pmikc.org/professional-development-day)
+  * [Lean Agile Kansas City 2016](https://2016.leanagilekc.com/sessions/hunting-horcruxes-a-cautionary-tale/)
+ 
 # Special Projects
 * 2025
   * Piloted Jira Align for organization KPIs to automate data collection and reporting
@@ -27,19 +41,4 @@ Specific Experience Below
 * 2014
   * Reduced reporting cycle time from 20 to 14 days by automating annual review metrics using JQL and SQL, significantly improving operational efficiency.
 
-# Publication
-* [Zero to Metrics-Driven Hero](https://www.agilealliance.org/resources/experience-reports/zero-to-metrics-driven-hero)
 
-# Conference Experience
-* Zero to Metrics-Driven Hero
-  * [Girl Geek X ELEVATE Conference 2024](https://www.youtube.com/watch?v=_kgwhYuI0Hg&t=2s&pp=ygUZY291cnRuZXkgc2hhciBnaXJsIGdlZWsgeNIHCQmyCQGHKiGM7w%3D%3D)
-  * [Agile Alliance 2021 Minimum Viable Conference](https://events.agilealliance.org/agile2021-mvc/speaker/294899/shar-courtney)
-  * [Agile Midwest 2019](https://www.facebook.com/agilemidwest/)
-  * [KC PMI Professional Development Days 2019](https://pmikc.org/professional-development-day)
-  * [Lean Agile Kansas City 2019](https://www.leanagilekc.com/sessions/)
-* Proactive Engagement: Identifying Issues Before Your Clients Do
-  * [Lean Agile Kansas City 2017](https://2017.leanagilekc.com/sessions/proactive-engagement-identifying-issues-before-your-clients-do/)
-* Hunting Horcruxes: Risk Management
-  * [PMI Orange County PMI PDD Days 2024](https://pmi-oc.org/pdd-2024)
-  * [KC PMI Professional Development Days 2016](https://pmikc.org/professional-development-day)
-  * [Lean Agile Kansas City 2016](https://2016.leanagilekc.com/sessions/hunting-horcruxes-a-cautionary-tale/)
